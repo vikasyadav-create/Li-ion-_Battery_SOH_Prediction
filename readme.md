@@ -94,11 +94,6 @@ The project demonstrates that time-series battery signals can be converted into 
 
 This project uses the NASA battery degradation dataset from the NASA Prognostics Center of Excellence.
 
-Required attribution:
-
-> B. Saha and K. Goebel (2007). "Battery Data Set", NASA Ames Prognostics Data Repository, NASA Ames Research Center, Moffett Field, CA.
-
-This repository preserves the original dataset credit and authorship context while presenting a cleaner, portfolio-focused version of the work.
 
 ## Repository Layout
 
@@ -121,18 +116,10 @@ This repository preserves the original dataset credit and authorship context whi
 │   ├── __init__.py
 │   ├── data_loader.py
 │   └── plotting.py
-├── LICENSE
+
 ├── readme.md
 ├── requirements.txt
 └── data/NASA_batteries_1/README.txt
 ```
 
-## License
 
-This project is distributed under the MIT License. See `LICENSE` for details.
-
-## Portfolio Notes
-
-- The repository was intentionally streamlined for readability and portfolio presentation.
-- Promotional graphics, badges, generated outputs, and unrelated content were removed.
-- Original project provenance and NASA attribution are retained to respect the source material and required credits.
